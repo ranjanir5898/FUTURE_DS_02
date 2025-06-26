@@ -56,8 +56,8 @@ This project analyzes **8469 customer support tickets** to extract insights abou
 
 | Dashboard View | Description |
 |----------------|-------------|
-| ![Dashboard 1](Task_2(1).png) | Overview of tickets by priority, channel, satisfaction, and customer demographics |
-| ![Dashboard 2](Task_2(2).png) | Monthly trends, ticket subjects, resolution status, and channel response delays |
+| ![Dashboard 1](Task 2(1).png) | Overview of tickets by priority, channel, satisfaction, and customer demographics |
+| ![Dashboard 2](Task 2(2).png) | Monthly trends, ticket subjects, resolution status, and channel response delays |
 
 ---
 
